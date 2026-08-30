@@ -1,0 +1,221 @@
+src/components/wifi/use-nickname.ts
+  s_76ced117f47918::t_bcd4b3af6618fc 1-50
+src/components/wifi/dashboard.tsx
+  s_76ced117f47918::t_0bdaba88bb1e4a 4-13,44-239,244-287,290,295-296,299,312-313
+  s_76ced117f47918::t_95ee67da0a6ad9 240-243
+  s_76ced117f47918::t_3d879deaa190f1 3
+  s_76ced117f47918::t_2cf11b2b529d00 27
+  s_76ced117f47918::t_e24d8eb7225ab6 15
+  s_76ced117f47918::t_b7b1489d8bd0cc 1-2
+  s_76ced117f47918::t_5407b5129bde80 14
+  s_76ced117f47918::t_23ab6cd3a079a8 16-18,24-26
+  s_76ced117f47918::t_c3dd354e3ccf8d 28-30,41-43
+  s_76ced117f47918::t_2e0207877a21ce 288-289
+  s_76ced117f47918::t_d2e6f47faa8428 291-294
+  s_76ced117f47918::t_0248d03b4de935 297-298
+  s_76ced117f47918::t_4021903e082dc0 300-302,309-311
+  h_95aea6b4aa8772 19-23,31-40,303-308
+fixtures/macos-redacted.json
+  s_76ced117f47918::t_8a16e67e63e0e8 1-67
+src/lib/wifi/parse-macos.ts
+  s_76ced117f47918::t_26723def5e3bdf 106-122
+  s_76ced117f47918::t_6f38e55869b62d 2
+  s_76ced117f47918::t_a3a7ce6a8f6ae9 93
+  s_76ced117f47918::t_b9ec2f1687dd9f 54-59
+  s_76ced117f47918::t_8a76be8c307c47 16
+  s_76ced117f47918::t_4b49821212e395 1
+  s_76ced117f47918::t_acb909a6cebc81 3-5,13-15
+  s_76ced117f47918::t_8bbcebba4a507d 17-19,51-53
+  s_76ced117f47918::t_4f53b771df2c54 60-62,90-92
+  s_76ced117f47918::t_f47d058b88234b 94-96,103-105
+  s_76ced117f47918::t_7b27d30a1d2357 123-125
+  h_95aea6b4aa8772 6-12,20-50,63-89,97-102,126-132
+README.md
+  s_76ced117f47918::t_f2031f17ee69fa 49-73
+  s_76ced117f47918::t_b968b2f41d0b91 22,24,28,33,37,39,43,45,76,83,85-91
+  s_76ced117f47918::t_7c62d4272cd11f 94-96
+  s_76ced117f47918::t_d7c99d4dcd3f8d 19-21
+  s_76ced117f47918::t_ac4ada80f65835 23
+  s_76ced117f47918::t_1cc05f7d1b49cb 25-27
+  s_76ced117f47918::t_86a4d822823830 29-32
+  s_76ced117f47918::t_e912f8dd7b0a86 34-36
+  s_76ced117f47918::t_5c2fe9df9499d0 38
+  s_76ced117f47918::t_29af717e57c9a4 40-42
+  s_76ced117f47918::t_873d26d074f073 44
+  s_76ced117f47918::t_7e3a02a6c5d1e2 46-48
+  s_76ced117f47918::t_2367924b543b6a 74-75
+  s_76ced117f47918::t_6e6966dbe9304d 77-82
+  s_76ced117f47918::t_3ed1d75063e4b7 84
+  s_76ced117f47918::t_519efe7f30ea6c 92-93
+  s_76ced117f47918::t_05a5283e32ce38 97-99
+  h_95aea6b4aa8772 1-18,100-102
+src/components/wifi/network-table.tsx
+  s_76ced117f47918::t_e8bb1aa561244e 121-123
+  s_76ced117f47918::t_61f4a06063fada 134
+  s_76ced117f47918::t_0660c1f5698175 1-120,124-133,135-166
+src/lib/wifi/ssid-recovery.ts
+  s_76ced117f47918::t_aedf782b65feb5 1-57
+src/lib/wifi/analyze.ts
+  s_76ced117f47918::t_dd91ca285b536e 6-7
+  s_76ced117f47918::t_3294f32ef86b64 61
+  s_76ced117f47918::t_f5d63822c13449 199-218
+  s_76ced117f47918::t_3bfc9e0c4139a2 415
+  s_76ced117f47918::t_51429be6f5aa4f 283
+  s_76ced117f47918::t_6ad1f9f10d5c64 21,25,86-118,121,126,134,384
+  s_76ced117f47918::t_9e4591d3dbbb37 426-435
+  s_76ced117f47918::t_81b2144ad75d70 373-380
+  s_76ced117f47918::t_c91c6cc8a6e7dd 3-5
+  s_76ced117f47918::t_20155a52a3b218 8-10,18-20
+  s_76ced117f47918::t_90f2c739632e63 22-24
+  s_76ced117f47918::t_94734b91a2a6f1 26-28,58-60
+  s_76ced117f47918::t_a6a1651f1d0986 62-64,83-85
+  s_76ced117f47918::t_c7d9b58433f8c9 119-120
+  s_76ced117f47918::t_0cc5bd52c56ce4 122-125
+  s_76ced117f47918::t_ec741211b57c3a 127-129,131-133
+  s_76ced117f47918::t_df3cdd82dbd653 135-137,196-198
+  s_76ced117f47918::t_a187699012affb 219-221,280-282
+  s_76ced117f47918::t_1928e5136f115a 284-286,370-372
+  s_76ced117f47918::t_9f71ba7434249d 381-383
+  s_76ced117f47918::t_952d52cc939448 385-387,412-414
+  s_76ced117f47918::t_90ecd5557f348a 416-418,423-425
+  s_76ced117f47918::t_02d3e6ae9d7a6a 436-437
+  h_95aea6b4aa8772 1-2,11-17,29-57,65-82,130,138-195,222-279,287-369,388-411,419-422
+.gitignore
+  h_95aea6b4aa8772 19
+  h_95aea6b4aa8772 1-18,20-41
+src/lib/wifi/identity.ts
+  s_76ced117f47918::t_d371d17d5854e8 1-21,27,29-118
+  s_76ced117f47918::t_31eb88a5040321 22-26,28
+dist/wifi-plan.mjs
+  s_76ced117f47918::t_5cdadbec8c6e55 1-122,124-918,926-928,935-936
+  s_76ced117f47918::t_e66d3fae39c3eb 123
+  s_76ced117f47918::t_d5d234951bfcfc 919-925,929-934,937-940
+src/lib/wifi/types.ts
+  s_76ced117f47918::t_fae7f9248feee3 85
+  s_76ced117f47918::t_af1fad2e29b0ea 24,30,32-41,48,55,64,86,95
+  s_76ced117f47918::t_34c5c4598aeab7 18-23
+  s_76ced117f47918::t_1dfcd128dcc3ea 94
+  s_76ced117f47918::t_bd4e6d7a200c49 15-17
+  s_76ced117f47918::t_fc21ea69918447 25-29
+  s_76ced117f47918::t_4c8b83483661c9 31
+  s_76ced117f47918::t_c7a3bf8d56bdb5 42-47
+  s_76ced117f47918::t_aa32d3df9d42c6 49-54
+  s_76ced117f47918::t_bcca3d7feeb900 56-58,61-63
+  s_76ced117f47918::t_a45519f1f82d6b 65-67,82-84
+  s_76ced117f47918::t_f982341941bdbd 87-89,91-93
+  h_95aea6b4aa8772 1-14,59-60,68-81,90
+scripts/scan.ts
+  s_76ced117f47918::t_4ffa4b19e5ba28 19,26-27,44,46-47,49,52-53,59,66-67,81,83-85,87-101,110,119
+  s_76ced117f47918::t_85b83b2deb7b13 29-43
+  s_76ced117f47918::t_4d7edb32a19546 16-18
+  s_76ced117f47918::t_b3b4e1852c82ef 20-25
+  s_76ced117f47918::t_e9193039c30453 28
+  s_76ced117f47918::t_65c4f54d56c73b 45
+  s_76ced117f47918::t_4feae8c07bd187 48
+  s_76ced117f47918::t_6268f693d36004 50-51
+  s_76ced117f47918::t_74965c5d614f6d 54-58
+  s_76ced117f47918::t_935954f17372e3 60-65
+  s_76ced117f47918::t_efe2c9cc1d2377 68-70,78-80
+  s_76ced117f47918::t_f122a8df0985fb 82
+  s_76ced117f47918::t_60d164b85bef0b 86
+  s_76ced117f47918::t_367df21dd33374 102-104,107-109
+  s_76ced117f47918::t_6f8e0476778fc3 111-113,116-118
+  s_76ced117f47918::t_1914918ca1ff25 120-122
+  h_95aea6b4aa8772 1-15,71-77,105-106,114-115,123-125
+src/app/page.tsx
+  s_76ced117f47918::t_a7e254d8745d5f 1-8
+  s_76ced117f47918::t_92876e20bfdd10 9-11
+src/lib/wifi/scan.ts
+  s_76ced117f47918::t_7b62f96db6f6de 25,45,59,61-84,91
+  s_76ced117f47918::t_bfcdc24821968d 6-9
+  s_76ced117f47918::t_d57cf56d74d14b 3-5
+  s_76ced117f47918::t_ee32b8f4b364c3 10-12,22-24
+  s_76ced117f47918::t_db4a40e912b03b 26-28,42-44
+  s_76ced117f47918::t_c5ea87f175f0f8 46-48,56-58
+  s_76ced117f47918::t_bd8c47091f4cc8 60
+  s_76ced117f47918::t_af18892a6a9803 85-90
+  h_95aea6b4aa8772 1-2,13-21,29-41,49-55
+src/components/wifi/privacy-notice.tsx
+  s_76ced117f47918::t_214b081e524b4d 1-62
+AGENTS.md
+  h_95aea6b4aa8772 1-9
+CLAUDE.md
+  h_95aea6b4aa8772 1
+components.json
+  h_95aea6b4aa8772 1-25
+eslint.config.mjs
+  h_95aea6b4aa8772 1-18
+next.config.ts
+  h_95aea6b4aa8772 1-7
+package-lock.json
+  h_95aea6b4aa8772 1-10254
+package.json
+  h_95aea6b4aa8772 1-36
+postcss.config.mjs
+  h_95aea6b4aa8772 1-7
+public/file.svg
+  h_95aea6b4aa8772 1
+public/globe.svg
+  h_95aea6b4aa8772 1
+public/next.svg
+  h_95aea6b4aa8772 1
+public/vercel.svg
+  h_95aea6b4aa8772 1
+public/window.svg
+  h_95aea6b4aa8772 1
+scripts/macos-scan.sh
+  h_95aea6b4aa8772 1-3
+scripts/verify-fixture.ts
+  h_95aea6b4aa8772 1-39
+src/app/api/scan/route.ts
+  h_95aea6b4aa8772 1-8
+src/app/globals.css
+  h_95aea6b4aa8772 1-130
+src/app/layout.tsx
+  h_95aea6b4aa8772 1-30
+src/components/ui/badge.tsx
+  h_95aea6b4aa8772 1-52
+src/components/ui/button.tsx
+  h_95aea6b4aa8772 1-58
+src/components/ui/card.tsx
+  h_95aea6b4aa8772 1-103
+src/components/ui/separator.tsx
+  h_95aea6b4aa8772 1-25
+src/components/wifi/channel-map.tsx
+  h_95aea6b4aa8772 1-60
+src/components/wifi/plan-list.tsx
+  h_95aea6b4aa8772 1-47
+src/components/wifi/score-ring.tsx
+  h_95aea6b4aa8772 1-42
+src/lib/utils.ts
+  h_95aea6b4aa8772 1-6
+src/lib/wifi/channels.ts
+  h_95aea6b4aa8772 1-101
+src/lib/wifi/demo.ts
+  h_95aea6b4aa8772 1-61
+src/lib/wifi/parse-linux.ts
+  h_95aea6b4aa8772 1-56
+tsconfig.json
+  h_95aea6b4aa8772 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "b06bacb2869fff16fb9201159320e7f0cb256df3",
+  "prompts": {},
+  "humans": {
+    "h_95aea6b4aa8772": {
+      "author": "Devendra Pratap <dps.manit@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_76ced117f47918": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6c15e623-6528-46d9-bcfd-9091fc251f0b",
+        "model": "auto-smart"
+      },
+      "human_author": "Devendra Pratap <dps.manit@gmail.com>"
+    }
+  }
+}
