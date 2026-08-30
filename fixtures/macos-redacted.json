@@ -1,0 +1,67 @@
+{
+  "SPAirPortDataType": [
+    {
+      "spairport_airport_interfaces": [
+        {
+          "_name": "en0",
+          "spairport_status_information": "spairport_status_connected",
+          "spairport_supported_phymodes": "802.11 a/b/g/n/ac/ax",
+          "spairport_current_network_information": {
+            "_name": "<redacted>",
+            "spairport_network_channel": "153 (5GHz, 80MHz)",
+            "spairport_network_country_code": "IN",
+            "spairport_network_mcs": 4,
+            "spairport_network_phymode": "802.11ac",
+            "spairport_network_rate": 234,
+            "spairport_network_type": "spairport_network_type_station",
+            "spairport_security_mode": "spairport_security_mode_wpa2_personal_mixed",
+            "spairport_signal_noise": "-68 dBm / -90 dBm"
+          },
+          "spairport_airport_other_local_wireless_networks": [
+            {
+              "spairport_network_channel": "153 (5GHz, 80MHz)",
+              "spairport_network_phymode": "802.11a/n/ac",
+              "spairport_security_mode": "spairport_security_mode_wpa2_personal",
+              "spairport_signal_noise": "-62 dBm / -91 dBm"
+            },
+            {
+              "_name": "<redacted>",
+              "spairport_network_channel": "153 (5GHz, 80MHz)",
+              "spairport_network_phymode": "802.11a/n/ac",
+              "spairport_security_mode": "spairport_security_mode_wpa2_personal_mixed",
+              "spairport_signal_noise": "-64 dBm / -91 dBm"
+            },
+            {
+              "_name": "<redacted>",
+              "spairport_network_channel": "44 (5GHz, 160MHz)",
+              "spairport_network_phymode": "802.11a/n/ac/ax",
+              "spairport_security_mode": "spairport_security_mode_wpa2_personal",
+              "spairport_signal_noise": "-68 dBm / -91 dBm"
+            },
+            {
+              "_name": "OpenGuest",
+              "spairport_network_channel": "1 (2GHz, 20MHz)",
+              "spairport_network_phymode": "802.11b/g/n",
+              "spairport_security_mode": "spairport_security_mode_open",
+              "spairport_signal_noise": "-60 dBm / -92 dBm"
+            },
+            {
+              "_name": "<redacted>",
+              "spairport_network_channel": "11 (2GHz, 20MHz)",
+              "spairport_network_phymode": "802.11b/g/n/ax",
+              "spairport_security_mode": "spairport_security_mode_wpa2_personal",
+              "spairport_signal_noise": "-65 dBm / -92 dBm"
+            },
+            {
+              "_name": "<redacted>",
+              "spairport_network_channel": "11 (2GHz, 20MHz)",
+              "spairport_network_phymode": "802.11b/g/n/ax",
+              "spairport_security_mode": "spairport_security_mode_wpa2_personal",
+              "spairport_signal_noise": "-70 dBm / -92 dBm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
